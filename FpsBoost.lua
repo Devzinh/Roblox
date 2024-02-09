@@ -1,4 +1,3 @@
--- MADE BY RIP#6666
 -- send issues or suggestions to my discord.gg/ssqDvAT8h8: discord.gg/ssqDvAT8h8
 
 if not _G.Ignore then
